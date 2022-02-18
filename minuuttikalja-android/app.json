@@ -1,0 +1,15 @@
+ {
+   "expo": {
+    "name": "Minuuttikalja",
+    "version": "1.0.0",
+    "slug": "Ei ämpäri ei riitä",
+    "ios": {
+      "bundleIdentifier": "cum.oy",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "cum.oy",
+      "versionCode": 1
+    }
+   }
+ }
